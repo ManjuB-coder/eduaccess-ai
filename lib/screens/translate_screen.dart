@@ -25,8 +25,7 @@ class _TranslateScreenState extends State<TranslateScreen> {
   List<Map<String, String>> savedTranslations = [];
 
   // 🔑 API KEY
-  final String apiKey =
-      "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";
+  final String apiKey = "";
 
   // 🌍 LANGUAGES
   final List<String> languages = [

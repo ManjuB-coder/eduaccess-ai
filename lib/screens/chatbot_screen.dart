@@ -31,8 +31,7 @@ class _ChatbotScreenState extends State<ChatbotScreen> {
   String extractedPDFText = "";
 
   // 🔑 API KEY
-  final String apiKey =
-      "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";
+  final String apiKey = "";
 
   // 💬 CHAT MEMORY
   List<Map<String, String>> messages = [];

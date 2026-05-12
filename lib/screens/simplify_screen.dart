@@ -28,8 +28,7 @@ class _SimplifyScreenState extends State<SimplifyScreen> {
   List<Map<String, String>> savedNotes = [];
 
   // 🔑 API KEY
-  final String apiKey =
-      "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";
+  final String apiKey = "";
 
   // 📄 PICK PDF
   Future<void> pickPDF() async {
