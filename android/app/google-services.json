@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "68827941974",
+    "project_id": "eduaccessai",
+    "storage_bucket": "eduaccessai.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:68827941974:android:f16be2fbd54d43d825bff7",
+        "android_client_info": {
+          "package_name": "com.example.eduaccess_ai"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5ZxF9IkjXcSEJpKgZmWY7JKP8p5OQIP8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
