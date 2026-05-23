@@ -21,7 +21,7 @@ class DefaultFirebaseOptions {
 
   static const FirebaseOptions web = FirebaseOptions(
     apiKey: "",
-    appId: "1:68827941974:web:57c994577611641025bff7",
+    appId: "",
     messagingSenderId: "68827941974",
     projectId: "eduaccessai",
     authDomain: "eduaccessai.firebaseapp.com",
@@ -30,8 +30,8 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: "AIzaSyDX7FJwaOFoWseuPyBpI7_9ZRXemlLFIQM",
-    appId: "1:68827941974:android:57c994577611641025bff7",
+    apiKey: "",
+    appId: "",
     messagingSenderId: "68827941974",
     projectId: "eduaccessai",
     storageBucket: "eduaccessai.firebasestorage.app",
