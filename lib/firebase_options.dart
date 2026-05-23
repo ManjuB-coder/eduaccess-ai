@@ -20,7 +20,7 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: "AIzaSyDX7FJwaOFoWseuPyBpI7_9ZRXemlLFIQM",
+    apiKey: "",
     appId: "1:68827941974:web:57c994577611641025bff7",
     messagingSenderId: "68827941974",
     projectId: "eduaccessai",
